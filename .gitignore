@@ -136,6 +136,7 @@ bin/
 output/
 include/
 */frames
+.DS_Store
 
 # pytype static type analyzer
 .pytype/
